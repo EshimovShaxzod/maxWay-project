@@ -1,12 +1,9 @@
-import { Button } from "@radix-ui/themes";
-import React from "react";
+
 
 const App = () => {
   return (
-    <div>
-      <Button>Click</Button>
-    </div>
-  );
-};
+    <div>App</div>
+  )
+}
 
-export default App;
+export default App
