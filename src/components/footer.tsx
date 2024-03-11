@@ -6,7 +6,7 @@ import {
   TelegramIcon,
   TikTokIcon,
   YoutubeIcon,
-} from './Icons'
+} from './icons'
 
 const Footer = () => {
   return (

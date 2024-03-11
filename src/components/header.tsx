@@ -1,6 +1,6 @@
 import { Container } from '@radix-ui/themes'
 import UserAvatar from './Avatar'
-import { LogoIcon } from './Icons'
+import { LogoIcon } from './icons'
 
 const Header = () => {
   return (
